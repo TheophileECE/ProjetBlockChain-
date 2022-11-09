@@ -1,0 +1,1152 @@
+[
+  {
+    "name": "Xana Collection #1",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/1.png",
+    "dna": "305cd161670b9074d5c1f378ed3e03482d26c584",
+    "edition": 1,
+    "date": 1667994445573,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #2",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/2.png",
+    "dna": "b8d859580fb0fe9d2158a2481beb1ff9c0b6f298",
+    "edition": 2,
+    "date": 1667994445668,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "hex"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #3",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/3.png",
+    "dna": "53db8bd2fdc7dacf608430bbccb27aa402a39234",
+    "edition": 3,
+    "date": 1667994445763,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "tonedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #4",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/4.png",
+    "dna": "14b200c457b03b618234e2d63666a3e5ef262054",
+    "edition": 4,
+    "date": 1667994445857,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "wave"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightpurple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #5",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/5.png",
+    "dna": "3abf7f6dfa7a3a6c9d79f4f801a990ef7dcbb9bc",
+    "edition": 5,
+    "date": 1667994445939,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #6",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/6.png",
+    "dna": "3e43b23f9aa81d181ddb999a0a1d406c83031aca",
+    "edition": 6,
+    "date": 1667994446025,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "leafgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "pinky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #7",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/7.png",
+    "dna": "2d901e1626b9ae13927f89b48fb78b91e5fb7601",
+    "edition": 7,
+    "date": 1667994446110,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "brick"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "purpleish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #8",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/8.png",
+    "dna": "8b1d9240f742c7758905bb60e2642ba544b59b4c",
+    "edition": 8,
+    "date": 1667994446212,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "pills"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "redish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #9",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/9.png",
+    "dna": "0ccdfac959aebe5c2871ff0c10b29c1acb60a309",
+    "edition": 9,
+    "date": 1667994446305,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "wave"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #10",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/10.png",
+    "dna": "2983274bd6e2bd96aadfa5f32796e1d206d86d10",
+    "edition": 10,
+    "date": 1667994446390,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "yellowedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #11",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/11.png",
+    "dna": "e9421b5d1efe2cf6fa1edb6bbf987e1e3ef6167e",
+    "edition": 11,
+    "date": 1667994446485,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "hex"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #12",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/12.png",
+    "dna": "7203e8293ad010baf572a8b3d437b63e718e3151",
+    "edition": 12,
+    "date": 1667994446573,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "sadnwich"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "purpleish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #13",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/13.png",
+    "dna": "afcbf81eb7ec290f2e8292a08f57a80c00c125cc",
+    "edition": 13,
+    "date": 1667994446663,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightblue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "sadnwich"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #14",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/14.png",
+    "dna": "3ce0f4e1a4631ee72fc128a12f2a09a82f10e45b",
+    "edition": 14,
+    "date": 1667994446757,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lol"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "yellowedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #15",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/15.png",
+    "dna": "dbbd33c3145a62e0c8f35190e4f3ab4957c79a24",
+    "edition": 15,
+    "date": 1667994446839,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "green"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #16",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/16.png",
+    "dna": "886b7c12d4854404cfd52959c64905fa79357ab7",
+    "edition": 16,
+    "date": 1667994446935,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lol"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #17",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/17.png",
+    "dna": "5d78e2f428a70865d1cd8a620454c7ee5500a0e7",
+    "edition": 17,
+    "date": 1667994447031,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightpurple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #18",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/18.png",
+    "dna": "53d491dc174d8bea6ff10f700c75d5672731d05f",
+    "edition": 18,
+    "date": 1667994447121,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "ancre"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightishblue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #19",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/19.png",
+    "dna": "dc450da8dc5b4cf86e518bed45a783023f74d314",
+    "edition": 19,
+    "date": 1667994447204,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #20",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/20.png",
+    "dna": "52525326536de5e8eb1e710d56d964c29d92a4a7",
+    "edition": 20,
+    "date": 1667994447283,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "pinky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #21",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/21.png",
+    "dna": "517c1ed25df796b165d0bf14142565b9bf368e10",
+    "edition": 21,
+    "date": 1667994447366,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "brick"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #22",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/22.png",
+    "dna": "3e0b2eebd8e0935779ee855fa2549123d06bf1a7",
+    "edition": 22,
+    "date": 1667994447449,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "ancre"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #23",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/23.png",
+    "dna": "653a1afce5c6bb61390225f0d762bf60228c3856",
+    "edition": 23,
+    "date": 1667994447536,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "shape"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #24",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/24.png",
+    "dna": "5d1fd1b349944339524b589aee1d9751d96df566",
+    "edition": 24,
+    "date": 1667994447624,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lol"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "tonedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #25",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/25.png",
+    "dna": "866627b9c7022dd85a5fd6286ede603afe21804c",
+    "edition": 25,
+    "date": 1667994447706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "darkyellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "sadnwich"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "tonedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #26",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/26.png",
+    "dna": "c124500108be1515bb48da753e83b58e24324d7d",
+    "edition": 26,
+    "date": 1667994447790,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "shape"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #27",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/27.png",
+    "dna": "61b574cdb56be8c4d8c3cbef830ba4059c6eb1b6",
+    "edition": 27,
+    "date": 1667994447874,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "shape"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightblue"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #28",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/28.png",
+    "dna": "d64fa41751dd79d6ff23641f689a27e827fd35cf",
+    "edition": 28,
+    "date": 1667994447959,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellowgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "ancre"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "pinky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #29",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/29.png",
+    "dna": "cc80945a485dfdeeb205fe5d070f4ff2ccc17da4",
+    "edition": 29,
+    "date": 1667994448044,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "brick"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #30",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/30.png",
+    "dna": "99bf8d4857d38329ca1b4f9ca8ce3f99d956a984",
+    "edition": 30,
+    "date": 1667994448126,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "darkerpurpleish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #31",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/31.png",
+    "dna": "55ea74f9f5bdefe4ec8ede6a6e5a2ca578235b5e",
+    "edition": 31,
+    "date": 1667994448208,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "darkblue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "shape"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #32",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/32.png",
+    "dna": "b67dab204f68601885a9f97c2ceb679c19c062c9",
+    "edition": 32,
+    "date": 1667994448291,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "wave"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #33",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/33.png",
+    "dna": "c277c473968015670364546d6ddf774eb553ab65",
+    "edition": 33,
+    "date": 1667994448366,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #34",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/34.png",
+    "dna": "8d12089958c9f56e429723ae272deb92c9688f81",
+    "edition": 34,
+    "date": 1667994448452,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "pills"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #35",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/35.png",
+    "dna": "6da25283492009641b4c0317d085cb70ca5b0985",
+    "edition": 35,
+    "date": 1667994448541,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "sadnwich"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #36",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/36.png",
+    "dna": "d7b605d57af4f954ec0b2990533f120d68f5c5ba",
+    "edition": 36,
+    "date": 1667994448620,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "darkyellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #37",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/37.png",
+    "dna": "e606473da432d16532c753d2a46f1d38805ced29",
+    "edition": 37,
+    "date": 1667994448706,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lol"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #38",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/38.png",
+    "dna": "d3532305bb0d7dd5e3ec6bb76b30a6d118c11b27",
+    "edition": 38,
+    "date": 1667994448789,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "computer"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #39",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/39.png",
+    "dna": "492257e0e5e470abc91767d9583fc38b1d2e02e8",
+    "edition": 39,
+    "date": 1667994448875,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "wave"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "lightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #40",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/40.png",
+    "dna": "d83e30d0713d9083a387ecdf146f8f2e9427f597",
+    "edition": 40,
+    "date": 1667994448959,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellowgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "hex"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #41",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/41.png",
+    "dna": "b1fb98f4fbd6c0cc779d910a3a8250c15f3840e9",
+    "edition": 41,
+    "date": 1667994449052,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "sadnwich"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "darkpurple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #42",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/42.png",
+    "dna": "513aa1d42b3a739334855199a53d25c290ad5c22",
+    "edition": 42,
+    "date": 1667994449138,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lol"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #43",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/43.png",
+    "dna": "be618d2cc042c51b3187f6be40a6aacb4f552669",
+    "edition": 43,
+    "date": 1667994449217,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "yellowgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "pinky"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #44",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/44.png",
+    "dna": "f3d12f2d77995b0e7b6891ea4caf391ff7e6d80e",
+    "edition": 44,
+    "date": 1667994449298,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "darkblue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "purpleish"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #45",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/45.png",
+    "dna": "2808df211297855389058033a2a955088a64e1f8",
+    "edition": 45,
+    "date": 1667994449383,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "computer"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "darkpurple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #46",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/46.png",
+    "dna": "403eb17be784cc8b143b888a4375ef6129e0e188",
+    "edition": 46,
+    "date": 1667994449463,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #47",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/47.png",
+    "dna": "cb778cc40e085416401418ea677947f0c1165673",
+    "edition": 47,
+    "date": 1667994449552,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "lightgreen"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "shape"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #48",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/48.png",
+    "dna": "6b2cc7ff273b9a6abfce863b8b9a00d692239a4c",
+    "edition": 48,
+    "date": 1667994449633,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "brightpurple"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #49",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/49.png",
+    "dna": "b09afb47e5f0da3a1a6e16b517e571ad4f469421",
+    "edition": 49,
+    "date": 1667994449724,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "darkblue"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "void"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "tonedorange"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Xana Collection #50",
+    "description": "Xana collection by Théophile",
+    "image": "ipfs://QmauTgw2GZZ8c3offw8dhHs7bJnXMZb2zj4MNA7KJWRhjC/50.png",
+    "dna": "133c535797cc0a130fe0ac8936cfa030b4b716dd",
+    "edition": 50,
+    "date": 1667994449821,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "black"
+      },
+      {
+        "trait_type": "Pattern",
+        "value": "lul"
+      },
+      {
+        "trait_type": "Logo",
+        "value": "base"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

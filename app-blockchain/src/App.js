@@ -1,19 +1,15 @@
 import React from 'react';
 import './App.css';
-import './Button.js';
 import { Navbar } from './Navbar.js';
 
 
+function App() {
 
-class App extends React.Component {
-  
-  render() {
-    return (
-      <div className="App">
-          <Navbar />
-      </div>
-    );
-  }
+  return (
+    <div className="App">
+        <Navbar />
+    </div>
+  );
 }
 
 export default App;

@@ -1,0 +1,21 @@
+.carousel {
+    margin: auto;
+    width: 35%;
+    height: 35%;
+}
+.carousel-inner > .item > img {
+    width: 35%;
+    height: 35%;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 80%;
+    transform: translateY(-100%);
+    padding: 0.4rem 1.5rem;
+    color: #FFF;
+}
+
+.widget-home > .button {
+    margin-top: 1%;
+}

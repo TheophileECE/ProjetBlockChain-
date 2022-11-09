@@ -8,7 +8,8 @@ import {
     Link
 } from "react-router-dom";
 import { Button } from './Button.js';
-import {PageHome} from './PageHome';
+import PageHome from './PageHome';
+import PageInfos from './PageInfos';
 import './Navbar.css';
 
 export class Navbar extends React.Component {
@@ -27,7 +28,7 @@ export class Navbar extends React.Component {
                         <_navbar.Collapse id="responsive-navbar-nav">
                             <Nav>
                                 <Nav.Link as={Link} to="/home">Home</Nav.Link>
-                                
+                                <Nav.Link as={Link} to="/pageInfos">PageInfos</Nav.Link>
                             </Nav>
                         </_navbar.Collapse>
                     </_navbar>
@@ -37,6 +38,7 @@ export class Navbar extends React.Component {
                     <Routes>
                         <Route path="/" element= {<PageHome />} />
                         <Route path="/home" element={<PageHome />} />
+                        <Route path="/pageInfos" element={<PageInfos />} />
                     </Routes>
                 </div>
             </Router>
