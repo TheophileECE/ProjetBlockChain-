@@ -1,0 +1,20 @@
+.routes{
+    margin: 5rem 1rem 0 1rem;
+}
+
+.navbar-nav {
+    padding-right: 1rem;
+}
+
+a {
+    padding-right: 2rem;
+    padding-left: 1rem;
+}
+
+.navbar-brand > img {
+    margin-right: 1rem;
+}
+
+.nav-link {
+    margin-right: 2rem;
+}
