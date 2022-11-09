@@ -56,6 +56,22 @@ function PageHome() {
     }
   }
 
+  async function withdraw() {
+    if(typeof window.ethereum !== 'undefined') {
+      let accounts = await window.ethereum.request({method: 'eth_requestAccounts'});
+      const provider = new ethers.providers.Web3Provider(window.ethereum);
+      const signer = provider.getSigner();
+      const contract = new ethers.Contract(XANAadress, XanaCollection.abi, signer);
+      try {
+        const transaction = await contract.withdraw();
+        await transaction.wait();
+      }
+      catch(err) {
+        setError(err.message);
+      }
+    }
+  }
+
   return (
     <div className="widget-home">
         <Carousel fade={false} pause={false} variant="dark">
@@ -135,6 +151,7 @@ function PageHome() {
         </div>
         <div className="button">
           <Button variant="primary" handleChange={mint} name="Acheter un Xana"></Button>
+          <Button variant="primary" handleChange={withdraw} name="Retirer l'argent"></Button>
         </div>
         
     </div>
