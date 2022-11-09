@@ -36,4 +36,4 @@ En fonction de si une NFT comporte plusieurs layers rares ou non, elle est class
 -   Rare: 2 attributs rares parmis: background de couleur, logo de couleur et pattern
 -   Commun: 1 attribut rares parmis: background de couleur, logo de couleur et pattern
 
-Nous avons Solidity pour créer notre smart contract et nous l'avons compilé avec Hardhat avec le standard ERC721.
+Nous avons utilisé Solidity pour créer notre smart contract et nous l'avons compilé avec Hardhat avec le standard ERC721.
