@@ -6,7 +6,7 @@
 logs
 **/*.backup.*
 **/*.back.*
-
+/.idea
 *.sublime*
 
 psd

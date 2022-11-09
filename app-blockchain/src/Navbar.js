@@ -28,7 +28,7 @@ export class Navbar extends React.Component {
                         <_navbar.Collapse id="responsive-navbar-nav">
                             <Nav>
                                 <Nav.Link as={Link} to="/home">Home</Nav.Link>
-                                <Nav.Link as={Link} to="/pageInfos">PageInfos</Nav.Link>
+                                <Nav.Link as={Link} to="/pageInfos">Informations</Nav.Link>
                             </Nav>
                         </_navbar.Collapse>
                     </_navbar>
