@@ -1,4 +1,5 @@
 import React from 'react';
+import { Card } from './Card'
 
 export class PageHome extends React.Component {
     constructor(props) {
@@ -12,6 +13,7 @@ export class PageHome extends React.Component {
       return(
       <div>
           <h1>HOME</h1>
+          <Card image="./xanalogo.png" title="Test" text="Price: 1000 Golerie" />
       </div>
       )
     }

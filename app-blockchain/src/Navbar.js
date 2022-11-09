@@ -7,7 +7,7 @@ import {
     Route,
     Link
 } from "react-router-dom";
-
+import { Button } from './Button.js';
 import {PageHome} from './PageHome';
 import './Navbar.css';
 
@@ -27,6 +27,7 @@ export class Navbar extends React.Component {
                         <_navbar.Collapse id="responsive-navbar-nav">
                             <Nav>
                                 <Nav.Link as={Link} to="/home">Home</Nav.Link>
+                                
                             </Nav>
                         </_navbar.Collapse>
                     </_navbar>
