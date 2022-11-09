@@ -15,7 +15,7 @@ contract XanaCollection is ERC721Enumerable, Ownable {
     string public baseExtension = ".json";
     uint256 public cost = 0.05 ether;
     uint256 public maxSupply = 50;
-    uint256 public maxMintAmount = 1;
+    uint256 public maxMintAmount = 20;
     bool public paused = false;
     mapping(address => bool) public whitelisted;
 
@@ -113,5 +113,6 @@ contract XanaCollection is ERC721Enumerable, Ownable {
     }
 
     function withdraw() public payable onlyOwner {
+        require(payable(msg.sender).send(address(this).balance));
     }
 }

@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import XanaCollection from './artifacts/contracts/XanaCollection.sol/XanaCollection.json';
 
-const XANAadress = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+const XANAadress = "0x4f9Fbc120a652d7eE18F5D0f90f0cb3436baec99";
 
 
 function PageHome() {
@@ -26,8 +26,7 @@ function PageHome() {
       try {
         const cost = await contract.cost();
         const totalSupply = await contract.totalSupply();
-        const tokenId = await contract.tokenURI(tokenId);
-        const object = {"cost": String(cost), "totalSupply": String(totalSupply), "tokenId": String(tokenId)};
+        const object = {"cost": String(cost), "totalSupply": String(totalSupply)};
         setData(object);
       }
       catch(err) {
@@ -127,9 +126,17 @@ function PageHome() {
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
-        <div className="button">
-          <Button variant="primary" handleChange={mint} name="BUY one Xana NFT"></Button>
+        <div className="error">
+          {error && <p>{error}</p>}
         </div>
+        <div className="info">
+          <p>Il reste actuellement {50 - data.totalSupply} / 50 Xana </p>
+          <p>Prix d'un NFT (prix de gaz exclus): {data.cost / 10**18} eth</p>
+        </div>
+        <div className="button">
+          <Button variant="primary" handleChange={mint} name="Acheter un Xana"></Button>
+        </div>
+        
     </div>
   )
 

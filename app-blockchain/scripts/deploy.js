@@ -7,11 +7,6 @@
 const hre = require("hardhat");
 
 async function main() {
-  const currentTimestampInSeconds = Math.round(Date.now() / 1000);
-  const ONE_YEAR_IN_SECS = 365 * 24 * 60 * 60;
-  const unlockTime = currentTimestampInSeconds + ONE_YEAR_IN_SECS;
-
-  const lockedAmount = hre.ethers.utils.parseEther("1");
 
   const XanaCollection = await hre.ethers.getContractFactory("XanaCollection");
   const xanacollection = await XanaCollection.deploy("XanaCollection", "XANA", "ipfs://QmNoiwTJRhzRZF1sYzj7AntkapRTuwRexaubM3vAx6AyiD/");
@@ -19,7 +14,7 @@ async function main() {
   await xanacollection.deployed();
 
   console.log(
-      `XanaCollection with 1 ETH and unlock timestamp ${unlockTime} deployed to ${xanacollection.address}`
+    "XanaCollection deployed to:", xanacollection.address
   );
 }
 

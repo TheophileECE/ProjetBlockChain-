@@ -18,9 +18,9 @@ export class Navbar extends React.Component {
         return (
             <Router>
                 <div className="navbar">
-                    <_navbar collapseOnSelect="true" bg="dark" fixed="top" variant="dark" expand="lg">
+                    <_navbar collapseOnSelect="true" bg="warning" fixed="top" variant="light" expand="lg">
                         <_navbar.Brand href="#">
-                            <Image src="./xanalogo.png" width={75} height={50} alt="logo" handleClick={() => ({})}/>
+                            <Image src="./Commune/19.png" width={50} height={50} alt="logo" handleClick={() => ({})}/>
                             {" "} XANA NFT
                         </_navbar.Brand>
 
